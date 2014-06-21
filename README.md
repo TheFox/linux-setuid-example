@@ -6,7 +6,7 @@ Example of how to use `setuid()` and `setgid()` functions under Linux in C.
 2. Run `sudo ./main`.
 
 ## License
-Copyright (C) 2014 Christian Mayer (<thefox21at@gmail.com> - <http://fox21.at>)
+Copyright (C) 2014 Christian Mayer <http://fox21.at>
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
