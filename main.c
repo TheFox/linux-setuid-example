@@ -1,5 +1,5 @@
 /*
-	Created @ 03.02.2014 by Christian Mayer
+	Created @ 03.02.2014
 	Copyright (C) 2014 Christian Mayer <http://fox21.at>
 	
 	This program is free software: you can redistribute it and/or modify
