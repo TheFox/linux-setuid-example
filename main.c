@@ -1,6 +1,6 @@
 /*
 	Created @ 03.02.2014 by Christian Mayer
-	Copyright (c) 2014 Christian Mayer <thefox21at@gmail.com>
+	Copyright (C) 2014 Christian Mayer <http://fox21.at>
 	
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by
