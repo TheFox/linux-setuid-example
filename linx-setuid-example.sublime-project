@@ -2,7 +2,7 @@
 	"folders":[
 		{
 			"path": ".",
-			"name": "Linux setuid/setgid example",
+			"name": "Linux setuid/setgid Example",
 			"folder_exclude_patterns": [ ],
 			"file_exclude_patterns": [ ]
 		}

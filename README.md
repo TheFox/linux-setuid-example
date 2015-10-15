@@ -1,4 +1,5 @@
-# Linux setuid()/setgid() example
+# Linux setuid()/setgid() Example
+
 Example of how to use `setuid()` and `setgid()` functions under Linux in C.
 
 ## Test it
