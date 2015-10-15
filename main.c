@@ -23,6 +23,7 @@
 int main(){
 	printf("start\n");
 	
+	// To watch the process in the process list.
 	printf("sleep\n"); usleep(10 * 1000 * 1000);
 	
 	uid_t uid = 1000; // user
